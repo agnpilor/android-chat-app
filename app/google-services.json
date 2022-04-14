@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876223215114",
+    "project_id": "itas188-final-project-chat-app",
+    "storage_bucket": "itas188-final-project-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876223215114:android:12c8df624fb4fd4c4491f3",
+        "android_client_info": {
+          "package_name": "itas.angelp.itas188_finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876223215114-qm2ehhi18a4spsbg9618lv8tjvsum1jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itas.angelp.itas188_finalproject",
+            "certificate_hash": "75db53e4bd3be3c17f39131500bd54f21e731b58"
+          }
+        },
+        {
+          "client_id": "876223215114-828ug4ntssudo973il9ieat5p9vjjo1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-jUp0DuXTJbpCTbYOlgg3dIV4h4xc_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876223215114-828ug4ntssudo973il9ieat5p9vjjo1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
